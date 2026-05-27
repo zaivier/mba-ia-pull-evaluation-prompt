@@ -505,6 +505,7 @@ Usei 20 dolares de tokens da OpenAi e estourei o limite do LangSmith.
 Este desafio é muito caro para ser executado, mesmo usando o modelo mais barato da OpenAI. O custo estimado para completar o desafio é de 1 a 5 dolares, mas na prática, com as iteracoes necessarias, o custo pode ser muito maior. Alem disso, o limite de execucoes do LangSmith pode ser facilmente atingido, especialmente se voce precisar iterar varias vezes para otimizar os prompts.
 
 ## Conclusao:
-Nao consegui 0,90 na risca,eu executava o mesmo prompt 4 vezes a 5 vezes e as medias mudavam drasticamente.
-Tentei mudar o modelo para 5.4-mini, tentei o 4o, porem nao mudava muito.
-Meu melhor resultado foi este os citados no arquivo detalheExecucoes.json no id #13.
+0.90 apareceu no relatorio gerado conforme acima, porem nao deu aprovado! Fazer bater os dois perfeitamente saiu muito caro ,eu executava o mesmo prompt 4 vezes a 5 vezes e as medias mudavam drasticamente, mudava o prompt com mais few shots, mais detalhes das saidas para melhorar a precision, e mesmo assim as metricas oscilavam muito. Meu melhor resultado e o detalhado acima.
+Tentei mudar o modelo para 5.4-mini, tentei o 4o, porem 
+nao mudava muito.
+
