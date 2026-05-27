@@ -364,9 +364,11 @@ A aplicação destas técnicas resultou num salto massivo de performance, elimin
 ### Screenshots das Avaliações
 *(Adicione aqui os prints comprovando as notas)*
 - Comprovação de notas ≥ 0.9 em todas as métricas
-[screenshot1.png]
+<img width="756" height="640" alt="Captura de tela 2026-05-24 190252" src="https://github.com/user-attachments/assets/e9900dd2-6113-425e-aa2c-d3040d0c3baf" />
+-> Esta metrica deu 0,90 porem nao deu aprovado!
+
 - Tracing
-[screenshot2.png]
+<img width="2295" height="863" alt="Captura de tela 2026-05-26 222025" src="https://github.com/user-attachments/assets/0b264e48-ac72-4c91-a7a6-88d1cb79a09e" />
 
 ### Tabela Comparativa de Evolução
 
